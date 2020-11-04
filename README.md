@@ -23,20 +23,32 @@ Requierement :
 To launch the project, you have to :
 
  * clone the project using the following command 
-    git clone https://github.com/Davidinho241/laravelTest.git
+    ```
+     git clone https://github.com/Davidinho241/laravelTest.git
+    ```
 
  * Open the command line (Terminal) and go to the folder when you have clone the project
-    cd ../your_project_name
+    ```
+     cd ../your_project_name
+    ```
 
  * Update your composer
-    composer update
+    ```
+     composer update
+    ```
 
  * Create your database and run the migration
-    php artisan migrate
+    ```
+     php artisan migrate
+    ```
 
  * After running the migration, run the server
-    php artisan serve
+    ```
+     php artisan serve
+    ```
 
  * Use following the credential to access the dashboard, or create your own
-    Email : admin@laraveltest.com
-    Password : password
+    ```
+     Email : admin@laraveltest.com
+     Password : password
+    ```
