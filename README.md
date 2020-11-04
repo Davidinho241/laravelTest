@@ -1,16 +1,17 @@
 # laravelTest
-(https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.51.35.png "Demo 1")
-(https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.51.43.png "Demo 2")
-(https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.51.54.png "Demo 3")
-(https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.52.13.png "Demo 4")
-(https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.52.21.png "Demo 5")
-(https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.52.27.png "Demo 6")
-(https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.52.39.png "Demo 7")
-(https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.52.48.png "Demo 8")
-(https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.53.06.png "Demo 9")
-(https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.53.19.png "Demo 10")
-(https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.53.26.png "Demo 11")
-(https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.53.34.png "Demo 12")
+
+![alt text](https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.51.35.png "Demo 1")
+![alt text](https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.51.43.png "Demo 2")
+![alt text](https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.51.54.png "Demo 3")
+![alt text](https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.52.13.png "Demo 4")
+![alt text](https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.52.21.png "Demo 5")
+![alt text](https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.52.27.png "Demo 6")
+![alt text](https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.52.39.png "Demo 7")
+![alt text](https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.52.48.png "Demo 8")
+![alt text](https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.53.06.png "Demo 9")
+![alt text](https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.53.19.png "Demo 10")
+![alt text](https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.53.26.png "Demo 11")
+![alt text](https://github.com/Davidinho241/laravelTest/blob/master/laravelTest/public/demo/Screen%20Shot%202020-11-04%20at%2016.53.34.png "Demo 12")
 
 Requierement : 
 
